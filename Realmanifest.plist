@@ -17,8 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.frizzle.sideinstaller
-</string>
+                <string>com.frizzle.sideinstaller</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
